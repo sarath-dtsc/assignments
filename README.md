@@ -1,1 +1,1 @@
-# assignments
+Assignments on Data science course
